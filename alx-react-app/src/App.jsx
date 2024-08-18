@@ -10,6 +10,7 @@ function App() {
             <WelcomeMessage />
             <Header />
             <MainContent />
+            <UserProfile name="Alice" age="25" bio="Loves biking and photography." />
             <Footer />
         </div>
     );
