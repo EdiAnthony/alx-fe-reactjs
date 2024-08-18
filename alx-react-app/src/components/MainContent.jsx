@@ -3,10 +3,10 @@ import React from 'react';
 function MainContent() {
     return (
         <main>
-            <p>Here is a list of my favorite cities:</p>
+            <p>I love to visit:</p>
             <ul>
-                <li>Lagos</li>
-                <li>Canada</li>
+                <li>New York</li>
+                <li>Paris</li>
                 <li>Tokyo</li>
             </ul>
         </main>
