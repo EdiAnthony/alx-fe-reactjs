@@ -9,6 +9,6 @@ function App() {
       <UserProfile />
     </>
   )
-}
+} 
 
 export default App
